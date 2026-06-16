@@ -137,8 +137,16 @@ if not st.session_state.logged_in:
                 )
 
             except Exception as e:
-                st.error(str(e))
+                error_msg = str(e)
 
+                if "users.username" in error_msg:
+                    st.error(" Username already exists. Please choose another username.")
+
+                elif "users.email" in error_msg:
+                    st.error(" Email is already registered. Please login instead.")
+
+                else:
+                    st.error("Something went wrong. Please try again later.")
     elif menu == "Login":
 
         st.title("🤖 AI Resume Analyzer")
