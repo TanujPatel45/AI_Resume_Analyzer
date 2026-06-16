@@ -6,6 +6,22 @@ This project simulates how recruiters and Applicant Tracking Systems (ATS) evalu
 
 ---
 
+## Live Demo
+
+Experience the AI Resume Analyzer directly in your browser without any installation.
+
+Live Application: https://ai-resume-analyzer-tanuj.streamlit.app
+
+Try it now to:
+
+- Upload your resume in PDF format
+- Receive AI-powered ATS analysis
+- Identify strengths and weaknesses
+- Detect missing skills
+- Generate interview questions
+- Download PDF reports
+- View previous resume analyses
+
 ## Project Overview
 
 In today's competitive job market, having a strong resume is crucial. Many candidates are rejected before reaching the interview stage because their resumes fail ATS screening or do not effectively highlight relevant skills.
@@ -185,7 +201,7 @@ Add screenshots of the following pages:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 The following features are planned for future development:
 
@@ -194,13 +210,12 @@ The following features are planned for future development:
 * Resume Rewriting Suggestions
 * Resume Comparison Tool
 * Interactive Analytics Dashboard
-* Deployment on Streamlit Community Cloud
 * Multi-format Resume Support
 * Email-Based Resume Reports
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 This application can be useful for:
 
@@ -212,7 +227,7 @@ This application can be useful for:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following concepts were explored and implemented:
 
@@ -228,7 +243,7 @@ Through this project, the following concepts were explored and implemented:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
@@ -236,13 +251,13 @@ Feel free to fork this repository and submit pull requests.
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 This application provides AI-generated insights intended to assist users in improving their resumes. Results should be considered guidance and not a guarantee of interview success or hiring outcomes.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Tanuj Patel**
 
@@ -252,6 +267,6 @@ GitHub: https://github.com/TanujPatel45
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project helpful, consider giving it a star ⭐ on GitHub. It motivates further development and helps others discover the project.
